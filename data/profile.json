@@ -1,6 +1,5 @@
 {
-  "name": "Laura R F  Bikoski",
-  "photo": "https://avatars.githubusercontent.com/u/3266640?v=4",
+  "name": "Laura R F Bikoski",
   
   "location": "Santa Maria - RS",
   "phone": "(55) 997033707",
@@ -33,12 +32,12 @@
   "portfolio": [
     {
       "name": "Curso Ministrado na DIO para a criação de uma Pokedex",
-      "url": "https://github.com/RenanJPaula/js-developer-pokedex",
+      "url": "https://github.com/laurabikoski/js-developer-pokedex",
       "github": true
     },
     {
       "name": "Curso Ministrado na DIO para a criação de uma página de portfolio",
-      "url": "https://github.com/RenanJPaula/js-developer-portfolio",
+      "url": "https://github.com/laurabikoski/js-developer-portfolio",
       "github": true
     }
   ],
